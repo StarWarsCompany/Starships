@@ -1,0 +1,12 @@
+.card-body {
+  font-size: 14px;
+  color: grey;
+}
+
+.card-title {
+  color: orange;
+}
+
+.card-text {
+  color: grey;
+}
